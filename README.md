@@ -24,14 +24,14 @@ Siga as etapas abaixo para rodar o projeto localmente:
    Primeiro, clone o repositório para sua máquina local. Execute o seguinte comando no terminal:
 
    ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
+   git clone https://github.com/saram0rais/amigo-secreto
 
 2. **Instale as dependências**
    
    Navegue até o diretório do projeto e instale as dependências necessárias. Se você estiver usando o npm, execute o seguinte:
    
    ```bash
-    cd nome-do-repositorio
+    cd amigo-secreto
     npm install
 
 3. **Execute o servidor local**
